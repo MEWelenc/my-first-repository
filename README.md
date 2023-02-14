@@ -12,3 +12,5 @@ Important steps for git workflow:
 6. Review previous changes with git log
 
 This is a change for the updateREADME branch
+
+This is a change for practicing git pull.
